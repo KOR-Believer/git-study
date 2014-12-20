@@ -1,6 +1,5 @@
 /*
 Author Believer <kpw_believer@naver.com>gut
-???
 */
 
 function compress(str) {
